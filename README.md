@@ -24,11 +24,11 @@ This is a minimalistic watch face on a simple black backdrop.
 
 ## Insallation
 
-* Open [its page in the Galaxy Store][store:fewer] or simply
-  search for “Fewer”.
+* On your phone, open [galaxy.store/few][store:few] in your browser
+  or simply search for “Fewer” in the Galaxy Store.
 * Install.
 
-[store:fewer]: https://galaxystore.samsung.com/geardetail/me.elagin.kir.galaxy.fewer
+[store:few]: https://galaxy.store/few
 
 
 ## Contributing
