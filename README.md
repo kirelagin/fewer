@@ -33,13 +33,12 @@ This is a minimalistic watch face on a simple black backdrop.
 
 ## Contributing
 
-If you encounter any issues when using this library or have improvement ideas,
+If you encounter any issues when using this watch face or have improvement ideas,
 please open report in issue on GitHub.
 
-Unfortunately, the `.fwd` format appears to be binary and I have no idea how
+Unfortunately, the `.fwd` format appears to be binary, and I have no idea how
 to turn it into something more readable, so doing version control on it is
-tricky. For this reason, I’m not really sure how to handle PRs, if you open
-one.
+tricky. For this reason, I’m not really sure how to handle PRs, if you open one.
 
 
 ## License
